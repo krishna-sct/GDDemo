@@ -1,1 +1,2 @@
-Hello,I am krishna ,Interning with SCT.
+I am krishna ,Interning with SCT.
+Goodbye Command line
