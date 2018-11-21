@@ -1,2 +1,1 @@
-Goodbye Command line
-welcome GH Desktop
+Using GH Desktop
